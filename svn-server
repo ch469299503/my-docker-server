@@ -1,1 +1,3 @@
 
+FROM xubingtao/svn-server:latest
+MAINTAINER caohuan <ch469299503@163.com>
